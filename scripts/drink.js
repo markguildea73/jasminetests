@@ -18,4 +18,4 @@ whatCanIDrink = function(age){
         return "sorry I cant tell what age you are"
     }
 }
-console.log(whatCanIDrink(129))
+alert(whatCanIDrink(12))
